@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Final%20Year%20Student-AI%20%26%20DS-purple?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blueviolet?style=for-the-badge&logo=github"/>
+
   <img src="https://img.shields.io/badge/FastAPI-0f7d70?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
