@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey, I'm Gayatri - A night coder </h1>
+<h1 align="center">Hey, I'm Gayatri  </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+%2B+LLMs+%2B+FastAPI;Building+RAG-powered+chatbots+and+MVPs;Passionate+about+NLP Product+AI;Crafting+clean+dark-themed+UIs+%F0%9F%8C%88"  />
 </p>
