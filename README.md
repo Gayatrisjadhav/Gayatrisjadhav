@@ -1,73 +1,84 @@
 <!-- README.md -->
 
-<h1 align="center">Hey, I'm Gayatri  </h1>
+<h1 align="center">⚡ Gayatri: AI Engineer (Early Access) </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+%2B+LLMs+%2B+FastAPI;Building+RAG-powered+chatbots+and+MVPs;Passionate+about+NLP Product+AI;Crafting+clean+dark-themed+UIs+%F0%9F%8C%88"  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Final%20Year%20Student-AI%20%26%20DS-purple?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/FastAPI-0f7d70?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=750&lines=Final+Year+AI+%26+DS+student;Building+RAG+chatbots+like+it's+therapy;Dark+UIs+%7C+%7C+Emotional+Damage;Surviving+on+Python%2C+caffeine%2C+chaos" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧩 About Me
 
-I'm a final year AI & Data Science student @ **MIT** Aurangabad (not pune) deeply passionate about:
-- ⚙️ Building **LLM-powered AI tools** (chatbots, RAG flows, intelligent agents)
-- 🧠 Exploring **NLP**, **LangChain**, **FastAPI**, and **Docker**
-- 💻 Developing full-stack MVPs with modern frontend & backend stacks
+🎓 Final year AI & DS @ MIT Aurangabad (*not Pune… don’t worry, I’m also disappointed*)
 
+⚡ Make **AI tools that sound like they should raise seed funding**, but are actually coded at 3 AM  
+🛠️ Tech stack: Python, FastAPI, Docker, LangChain & trauma bonding with GPUs  
+☕ Debugging with coffee → then debugging why I have no money for more coffee  
 
-Currently building:
-- **TalentScout AI** – Resume-aware LLaMA chatbot for hiring
-- **CareerGuard AI** – AI career risk analyzer with a cosmic UI
-  
+Currently shipping side quests:  
+- 🌌 **CareerGuard AI** → Your job’s horoscope but with RAG. (*Will AI steal your career? Signs point to yes.*)  
+- 🎨 **AdSnap Studio** → YOLO + CLIP judging fashion campaigns like that one toxic friend.  
+- 🤖 **Nyrez AI** → My attempt at Jarvis. Currently more like Jugaad-vis.  
 
 ---
 
-## 🧠 Tech Stack
+## ⚔️ Tech Stack (aka things I flex, then google)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,fastapi,mongodb,pytorch,tensorflow,git,Langchain" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb,pytorch,tensorflow,git" />
+</p>
+
+<p align="center">+ LangChain (SaaS = Stockholm as a Service™)</p>
+
+---
+
+## 🎭 Projects (my main characters)
+
+| 🎬 Project | 🎤 Roast-ified Pitch |
+|------------|----------------------|
+| [CareerGuard AI](https://github.com/Gayatrisjadhav/CareerGuard-AI) | 🌌 Predicts your career’s expiry date + sends you a survival roadmap nobody asked for |
+| [AdSnap Studio](https://github.com/Gayatrisjadhav/AdSnap-studio) | 🎨 YOLO + CLIP = AI that judges ads like Simon Cowell with a GPU |
+| [Nyrez AI](https://github.com/Gayatrisjadhav/Nyrez-AI) | 🤖 Jarvis beta, but crashes if you ask it about stocks or your love life |
+
+---
+
+## 🏆 Achievements (copium edition)
+
+- 🥇 100% success rate at fixing bugs by deleting code I don’t understand  
+- 🥈 Once used Docker without crying (personal best)  
+- 🥉 Survived LangChain docs without rage-quitting (*barely*)  
+- 💀 Accidentally built Skynet on localhost, don’t tell anyone  
+
+---
+
+## 🛑 Fun Fact Section Nobody Asked For
+
+- My debugging style = print(“crying…”)  
+- My GPU hates me but can’t quit me  
+- “Will AI replace us?” — bro, I’m literally building my own replacement  
+- Career advice = just learn Python. Again. And again. Forever.  
+
+---
+
+## 🌐 Stalk Me (digitally pls)
+
+<p align="center">
+  <a href="www.linkedin.com/in/101gayatri"><img src="https://img.shields.io/badge/LinkedIn-hustle-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gayatrijad101@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaotic-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Gayatrisjadhav"><img src="https://img.shields.io/badge/GitHub-dark_mode-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💼 Projects I'm Proud Of
-
-| 💡 Project | 🔎 Description |
-|-----------|----------------|
-| [TalentScout AI](https://github.com/Gayatrisjadhav/TalentScout-Hiring-Bot) | 🤖 AI chatbot that screens resumes and interviews using LLaMA + LangChain |
-| [CareerGuard AI](https://github.com/Gayatrisjadhav/CareerGuard-AI) | 🧠 RAG-based app that analyzes career disruption risk & guides upskilling |
-
-
+<p align="center">Made with 💜 + ☕ + emotional support stackoverflow · <i>pls hire before AI learns HR</i></p>
 
 ---
 
----
+## 🐸 Meme Badges (for the culture)
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/101gayatri"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gayatrijad101@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Gayatrisjadhav"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-
-
----
-
-<!-- GitHub Snake Game Animation -->
-<!-- Optional: Enable Snake contribution animation -->
-<!-- 
-![snake gif](https://github.com/Gayatrisjadhav/Gayatrisjadhav/blob/output/github-contribution-grid-snake.svg)
--->
-
-<p align="center">Made with 💜 by Gayatri · Powered by caffeine & curiosity ☕</p>
+![meme](https://img.shields.io/badge/Made%20with-Maggi-orange)  
+![sleep](https://img.shields.io/badge/Certified-Sleep_Deprived-purple)  
+![debug](https://img.shields.io/badge/Debugger-Ctrl%2BC_Ctrl%2BV-black)  
+![gpu](https://img.shields.io/badge/GPU%20usage-crying-red)  
+![copium](https://img.shields.io/badge/Coding%20Fuel-Copium-green)  
 
