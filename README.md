@@ -2,7 +2,7 @@
 
 <h1 align="center">⚡ Gayatri: AI Engineer (Early Access) </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=750&lines=Final+Year+AI+%26+DS+student;Building+RAG+chatbots+like+it's+therapy;Dark+UIs+%7C+%7C+Emotional+Damage;Surviving+on+Python%2C+caffeine%2C+chaos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=750&;Building+RAG+chatbots+like+it's+therapy;Surviving+on+Python%2C+caffeine%2C" />
 </p>
 
 ---
