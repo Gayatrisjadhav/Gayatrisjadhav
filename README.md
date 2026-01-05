@@ -1,84 +1,114 @@
-<!-- README.md -->
+# Gayatri Sunil Jadhav
 
-<h1 align="center">⚡ Gayatri: AI Engineer (Early Access) </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9F70FD&center=true&vCenter=true&width=750&;Building+RAG+chatbots+like+it's+therapy;Surviving+on+Python%2C+caffeine%2C" />
-</p>
+AI Engineer.  
+I turn “AI ideas” into systems that either scale or fail loudly but both are useful.
 
 ---
 
-## 🧩 About Me
+## Summary
 
-🎓 Final year AI & DS @ MIT Aurangabad (*not Pune… don’t worry, I’m also disappointed*)
+B.Tech in Artificial Intelligence & Data Science (graduated).  
+I build **LLM-first products**, not slide decks.
 
-⚡ Make **AI tools that sound like they should raise seed funding**, but are actually coded at 3 AM  
-🛠️ Tech stack: Python, FastAPI, Docker, LangChain & trauma bonding with GPUs  
-☕ Debugging with coffee → then debugging why I have no money for more coffee  
+Most of my work lives at the intersection of:
+LLMs, retrieval systems, agent workflows, and backend engineering.
 
-Currently shipping side quests:  
-- 🌌 **CareerGuard AI** → Your job’s horoscope but with RAG. (*Will AI steal your career? Signs point to yes.*)  
-- 🎨 **AdSnap Studio** → YOLO + CLIP judging fashion campaigns like that one toxic friend.  
-- 🤖 **Nyrez AI** → My attempt at Jarvis. Currently more like Jugaad-vis.  
+If your product depends on prompts held together by hope, I will be uncomfortable.
 
 ---
 
-## ⚔️ Tech Stack (aka things I flex, then google)
+## What I Actually Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb,pytorch,tensorflow,git" />
-</p>
+- Design and ship **RAG pipelines** that don’t hallucinate every third answer  
+- Build **agentic workflows** where tools, memory, and retrieval are explicit (not magic)  
+- Fine-tune models when prompting stops working  
+- Wrap everything in **FastAPI** so it behaves like a real service  
+- Containerize, deploy, break, fix, repeat  
 
-<p align="center">+ LangChain (SaaS = Stockholm as a Service™)</p>
-
----
-
-## 🎭 Projects (my main characters)
-
-| 🎬 Project | 🎤 Roast-ified Pitch |
-|------------|----------------------|
-| [CareerGuard AI](https://github.com/Gayatrisjadhav/CareerGuard-AI) | 🌌 Predicts your career’s expiry date + sends you a survival roadmap nobody asked for |
-| [AdSnap Studio](https://github.com/Gayatrisjadhav/AdSnap-studio) | 🎨 YOLO + CLIP = AI that judges ads like Simon Cowell with a GPU |
-| [Nyrez AI](https://github.com/Gayatrisjadhav/Nyrez-AI) | 🤖 Jarvis beta, but crashes if you ask it about stocks or your love life |
+I like systems that survive users.
 
 ---
 
-## 🏆 Achievements (copium edition)
+## Selected Work
 
-- 🥇 100% success rate at fixing bugs by deleting code I don’t understand  
-- 🥈 Once used Docker without crying (personal best)  
-- 🥉 Survived LangChain docs without rage-quitting (*barely*)  
-- 💀 Accidentally built Skynet on localhost, don’t tell anyone  
+**TalentScout AI**  
+Resume-aware hiring assistant that parses resumes, generates role-specific questions, evaluates answers, and keeps state across interactions.  
+LLMs, structured extraction, evaluation logic, FastAPI backend.
 
----
+**CareerGuard AI**  
+RAG-based career risk analysis system combining external data, retrieval, and LLM reasoning to generate transition roadmaps.  
+Basically tells users uncomfortable truths with citations.
 
-## 🛑 Fun Fact Section Nobody Asked For
+**Nyrez AI**  
+Modular AI assistant exploring retrieval, tools, memory, and orchestration.  
+Not “Jarvis”. No voice. No theatrics. Just systems.
 
-- My debugging style = print(“crying…”)  
-- My GPU hates me but can’t quit me  
-- “Will AI replace us?” — bro, I’m literally building my own replacement  
-- Career advice = just learn Python. Again. And again. Forever.  
-
----
-
-## 🌐 Stalk Me (digitally pls)
-
-<p align="center">
-  <a href="www.linkedin.com/in/101gayatri"><img src="https://img.shields.io/badge/LinkedIn-hustle-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gayatrijad101@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaotic-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Gayatrisjadhav"><img src="https://img.shields.io/badge/GitHub-dark_mode-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+**AdSnap Studio**  
+Automated ad/content analysis pipeline using AI vision and classification logic.  
+Built for teams that want outputs, not brainstorms.
 
 ---
 
-<p align="center">Made with 💜 + ☕ + emotional support stackoverflow · <i>pls hire before AI learns HR</i></p>
+## Tech Stack (The Real One)
+
+**Languages**
+Python
+
+**Backend & APIs**
+FastAPI  
+REST  
+Async pipelines  
+
+**LLMs & NLP**
+LangChain  
+LangGraph (stateful agent workflows)  
+RAG (dense + hybrid retrieval)  
+Embeddings (OpenAI / HF / local)  
+Prompt engineering (and prompt removal)
+
+**Model Work**
+Fine-tuning (LoRA, PEFT concepts)  
+Evaluation pipelines  
+Inference optimization  
+
+**ML / DL**
+PyTorch  
+TensorFlow  
+HuggingFace ecosystem  
+
+**Data & Retrieval**
+FAISS  
+Vector databases  
+MongoDB  
+Document loaders & parsers  
+
+**Infra**
+Docker  
+Git  
+Environment-based deployments  
+
+If it’s experimental, I’ve tested it.  
+If it’s stable, I’m using it.
 
 ---
 
-## 🐸 Meme Badges (for the culture)
+## How I Think
 
-![meme](https://img.shields.io/badge/Made%20with-Maggi-orange)  
-![sleep](https://img.shields.io/badge/Certified-Sleep_Deprived-purple)  
-![debug](https://img.shields.io/badge/Debugger-Ctrl%2BC_Ctrl%2BV-black)  
-![gpu](https://img.shields.io/badge/GPU%20usage-crying-red)  
-![copium](https://img.shields.io/badge/Coding%20Fuel-Copium-green)  
+- If the prompt is doing all the work, the system is lying  
+- If you can’t evaluate it, you don’t control it  
+- “Agentic” without state is just a loop with confidence  
+- Demos are easy. Maintenance is the product.
+
+---
+
+## Links
+
+GitHub: https://github.com/Gayatrisjadhav  
+LinkedIn: https://www.linkedin.com/in/101gayatri  
+Email: gayatrijad101@gmail.com  
+
+---
+
+Hire me before I replace HR with my agent.
+
 
